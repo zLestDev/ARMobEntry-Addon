@@ -1,0 +1,13 @@
+name: ARMobEntryAddon
+version: 1.0
+main: br.com.alissonryanz.aRMobEntryAddon.ARMobEntryAddon
+api-version: '1.21'
+author: Alisson Ryan
+description: Bloqueia entrada e dano de mobs em regiões seguras.
+commands:
+  armob:
+    description: Comando administrativo.
+    usage: /armob reload
+permissions:
+  armob.admin:
+    default: op

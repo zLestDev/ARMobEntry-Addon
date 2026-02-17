@@ -1,0 +1,16 @@
+# ARMobEntryAddon - Configuração
+# Desenvolvido por Alisson Ryan
+
+# Mobs nesta lista PODEM entrar em áreas protegidas e PODEM receber dano.
+# Use nomes oficiais da Spigot/Paper (ex: LLAMA, ZOMBIE, COW)
+whitelist:
+  - LLAMA
+  - TRADER_LLAMA
+  - IRON_GOLEM
+
+messages:
+  prefix: "&8[&bAR-MobEntry&8] "
+  denied-entry: "&cEste mob foi impedido de entrar nesta zona protegida!"
+  denied-damage: "&cVocê não pode causar dano a mobs enquanto estiver em uma zona segura!"
+  reload: "&aConfiguração recarregada com sucesso!"
+  no-permission: "&cVocê não tem permissão para usar este comando."
