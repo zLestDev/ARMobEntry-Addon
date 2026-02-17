@@ -15,7 +15,7 @@
   Bloqueia fisicamente a entrada de mobs e protege entidades contra dano em zonas de spawn negado.
 </p>
 
-<a href="[#](https://discord.gg/TnuXWbdeVN)">
+<a href="https://discord.gg/TnuXWbdeVN" target="_blank">
   <img src="https://img.shields.io/badge/Suporte_e_Bugs-AR_%7C_Soluções_para_Minecraft-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="AR Soluções para Minecraft">
 </a>
 
